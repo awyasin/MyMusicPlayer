@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="desc_home">Main Activity - home of my music player showing currently playing or recently played song.
+        After clicking on the picture of the album it will show details through http://musicbrainz.org - free database
+        that provides API for looking up data. In the bottom there will be media player  implemented through MediaPlayer class. </string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="playlists">Playlists</string>
+    <string name="mood">Mood</string>
+    <string name="radio">Radio</string>
+    <string name="radiohead">Radiohead - Amnesiac</string>
+    <string name="pyramid">Pyramid Song</string>
+    <string name="desc_search">Search Activity - This screen will be used for searching for music either stored
+        in the device or in external database (connected through API).</string>
+    <string name="desc_playlists">Playlists Activity - this screen will allow user to create, name and store his playlists.
+        This screen will also offer recently played tracks.</string>
+    <string name="desc_mood">Mood Activity - this screen will offer selection of curated playlists containing music of some specific mood. </string>
+    <string name="desc_radio">Radio Activity - this screen will offer user to follow and listen to radio stations through Tune-In API.</string>
+    <string name="search_input">Search</string>
+    <string name="recently">Recently found:</string>
+    <string name="Acid">The Acid - Liminal</string>
+    <string name="Blake">James Blake - The Colour in Anything</string>
+    <string name="recentlyPlayed">Recently played</string>
+    <string name="all">All my music</string>
+    <string name="hits">Hits</string>
+    <string name="DJs">London DJs</string>
+    <string name="newPlaylist">+ new playlist</string>
+    <string name="radioheadPlaying">Radiohead - Pyramid Song (Amnesiac)</string>
+    <string name="follow">+ follow</string>
+</resources>
